@@ -8,6 +8,5 @@ public class SofabootclientApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SofabootclientApplication.class, args);
-
     }
 }
