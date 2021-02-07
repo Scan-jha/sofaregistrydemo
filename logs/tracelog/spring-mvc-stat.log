@@ -1,0 +1,6 @@
+{"time":"2020-12-02 13:26:15.784","stat.key":{"method":"POST","local.app":"sofabootclient","request.url":"http://10.1.91.114:9097/alldept"},"count":2,"total.cost.milliseconds":23,"success":"false","load.test":"F"}
+{"time":"2020-12-02 13:26:15.785","stat.key":{"method":"GET","local.app":"sofabootclient","request.url":"http://10.1.91.114:9097/alldept"},"count":1,"total.cost.milliseconds":865,"success":"true","load.test":"F"}
+{"time":"2020-12-02 13:28:04.197","stat.key":{"method":"GET","local.app":"sofabootclient","request.url":"http://10.1.91.114:9097/alldept"},"count":1,"total.cost.milliseconds":548,"success":"true","load.test":"F"}
+{"time":"2020-12-02 13:30:08.723","stat.key":{"method":"GET","local.app":"sofabootclient","request.url":"http://10.1.91.114:9097/alldept"},"count":1,"total.cost.milliseconds":519,"success":"true","load.test":"F"}
+{"time":"2020-12-02 13:35:08.722","stat.key":{"method":"GET","local.app":"sofabootclient","request.url":"http://10.1.91.114:9097/allemp"},"count":1,"total.cost.milliseconds":14,"success":"true","load.test":"F"}
+{"time":"2020-12-02 13:35:08.722","stat.key":{"method":"GET","local.app":"sofabootclient","request.url":"http://10.1.91.114:9097/alldept"},"count":1,"total.cost.milliseconds":9,"success":"true","load.test":"F"}

@@ -1,0 +1,4 @@
+{"time":"2020-12-02 13:27:58.006","stat.key":{"local.app":"sofabootservice","database.name":"ORCL","sql":"select * from dept"},"count":1,"total.cost.milliseconds":129,"success":"true","load.test":"F"}
+{"time":"2020-12-02 13:30:02.339","stat.key":{"local.app":"sofabootservice","database.name":"ORCL","sql":"select * from dept"},"count":1,"total.cost.milliseconds":62,"success":"true","load.test":"F"}
+{"time":"2020-12-02 13:35:02.339","stat.key":{"local.app":"sofabootservice","database.name":"ORCL","sql":"select * from emp"},"count":1,"total.cost.milliseconds":2,"success":"true","load.test":"F"}
+{"time":"2020-12-02 13:35:02.339","stat.key":{"local.app":"sofabootservice","database.name":"ORCL","sql":"select * from dept"},"count":1,"total.cost.milliseconds":0,"success":"true","load.test":"F"}

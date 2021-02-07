@@ -1,0 +1,28 @@
+2020-12-02 13:25:06.900 [main] INFO  com.alipay.lookout.remote.report.SchedulerPoller - started collecting and reporting priority:NORMAL metrics every 30000 
+2020-12-02 13:25:06.902 [main] INFO  com.alipay.lookout.remote.report.SchedulerPoller - started collecting and reporting priority:HIGH metrics every 2000 
+2020-12-02 13:25:06.902 [main] INFO  com.alipay.lookout.remote.report.SchedulerPoller - started collecting and reporting priority:LOW metrics every 60000 
+2020-12-02 13:25:06.902 [main] INFO  com.alipay.lookout.client.DefaultLookoutClient - add a registry:LookoutRegistry
+2020-12-02 13:25:17.522 [main] INFO  com.alipay.lookout.remote.report.SchedulerPoller - started collecting and reporting priority:NORMAL metrics every 30000 
+2020-12-02 13:25:17.550 [main] INFO  com.alipay.lookout.remote.report.SchedulerPoller - started collecting and reporting priority:HIGH metrics every 2000 
+2020-12-02 13:25:17.550 [main] INFO  com.alipay.lookout.remote.report.SchedulerPoller - started collecting and reporting priority:LOW metrics every 60000 
+2020-12-02 13:25:17.550 [main] INFO  com.alipay.lookout.client.DefaultLookoutClient - add a registry:LookoutRegistry
+2020-12-02 13:26:58.095 [main] INFO  com.alipay.lookout.remote.report.SchedulerPoller - started collecting and reporting priority:NORMAL metrics every 30000 
+2020-12-02 13:26:58.095 [main] INFO  com.alipay.lookout.remote.report.SchedulerPoller - started collecting and reporting priority:HIGH metrics every 2000 
+2020-12-02 13:26:58.095 [main] INFO  com.alipay.lookout.remote.report.SchedulerPoller - started collecting and reporting priority:LOW metrics every 60000 
+2020-12-02 13:26:58.096 [main] INFO  com.alipay.lookout.client.DefaultLookoutClient - add a registry:LookoutRegistry
+2020-12-02 13:27:04.874 [main] INFO  com.alipay.lookout.remote.report.SchedulerPoller - started collecting and reporting priority:NORMAL metrics every 30000 
+2020-12-02 13:27:04.874 [main] INFO  com.alipay.lookout.remote.report.SchedulerPoller - started collecting and reporting priority:HIGH metrics every 2000 
+2020-12-02 13:27:04.874 [main] INFO  com.alipay.lookout.remote.report.SchedulerPoller - started collecting and reporting priority:LOW metrics every 60000 
+2020-12-02 13:27:04.875 [main] INFO  com.alipay.lookout.client.DefaultLookoutClient - add a registry:LookoutRegistry
+2020-12-02 13:28:31.184 [main] INFO  com.alipay.lookout.remote.report.SchedulerPoller - started collecting and reporting priority:NORMAL metrics every 30000 
+2020-12-02 13:28:31.184 [main] INFO  com.alipay.lookout.remote.report.SchedulerPoller - started collecting and reporting priority:HIGH metrics every 2000 
+2020-12-02 13:28:31.184 [main] INFO  com.alipay.lookout.remote.report.SchedulerPoller - started collecting and reporting priority:LOW metrics every 60000 
+2020-12-02 13:28:31.185 [main] INFO  com.alipay.lookout.client.DefaultLookoutClient - add a registry:LookoutRegistry
+2020-12-02 13:29:02.435 [main] INFO  com.alipay.lookout.remote.report.SchedulerPoller - started collecting and reporting priority:NORMAL metrics every 30000 
+2020-12-02 13:29:02.436 [main] INFO  com.alipay.lookout.remote.report.SchedulerPoller - started collecting and reporting priority:HIGH metrics every 2000 
+2020-12-02 13:29:02.436 [main] INFO  com.alipay.lookout.remote.report.SchedulerPoller - started collecting and reporting priority:LOW metrics every 60000 
+2020-12-02 13:29:02.436 [main] INFO  com.alipay.lookout.client.DefaultLookoutClient - add a registry:LookoutRegistry
+2020-12-02 13:29:09.351 [main] INFO  com.alipay.lookout.remote.report.SchedulerPoller - started collecting and reporting priority:NORMAL metrics every 30000 
+2020-12-02 13:29:09.352 [main] INFO  com.alipay.lookout.remote.report.SchedulerPoller - started collecting and reporting priority:HIGH metrics every 2000 
+2020-12-02 13:29:09.352 [main] INFO  com.alipay.lookout.remote.report.SchedulerPoller - started collecting and reporting priority:LOW metrics every 60000 
+2020-12-02 13:29:09.352 [main] INFO  com.alipay.lookout.client.DefaultLookoutClient - add a registry:LookoutRegistry

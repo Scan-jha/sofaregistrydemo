@@ -1,0 +1,68 @@
+2021-02-01 09:39:36,110 INFO  main                             - SOFABoot Runtime Starting!
+2021-02-01 09:39:37,435 INFO  main                             - Registering component: service:com.example.sofabootservice.service.IDeptService
+2021-02-01 09:39:37,435 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:39:37,656 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:39:37,656 INFO  main                             -  <<Out Binding [bolt] Begins - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:39:37,749 INFO  main                             -  <<Out Binding [bolt] Ends - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:39:37,750 INFO  main                             - Register Service - com.example.sofabootservice.service.IDeptService
+2021-02-01 09:39:52,071 INFO  main                             - SOFABoot Runtime Starting!
+2021-02-01 09:39:53,034 INFO  main                             - Registering component: reference:com.example.sofabootservice.service.IDeptService:#-1998686043
+2021-02-01 09:39:53,034 INFO  main                             -  >>In Binding [bolt] Begins - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:40:23,520 INFO  main                             -  >>In Binding [bolt] Ends - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:40:23,520 INFO  main                             -  >>In Binding [jvm] Begins - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:40:23,521 INFO  main                             -  >>In Binding [jvm] Ends - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:43:27,635 INFO  main                             - SOFABoot Runtime Starting!
+2021-02-01 09:43:28,333 INFO  main                             - Registering component: service:com.example.sofabootservice.service.IDeptService
+2021-02-01 09:43:28,333 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:43:28,420 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:43:28,420 INFO  main                             -  <<Out Binding [bolt] Begins - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:43:28,433 INFO  main                             -  <<Out Binding [bolt] Ends - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:43:28,433 INFO  main                             - Register Service - com.example.sofabootservice.service.IDeptService
+2021-02-01 09:43:35,053 INFO  main                             - SOFABoot Runtime Starting!
+2021-02-01 09:43:35,809 INFO  main                             - Registering component: reference:com.example.sofabootservice.service.IDeptService:#82794826
+2021-02-01 09:43:35,809 INFO  main                             -  >>In Binding [bolt] Begins - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:44:06,146 INFO  main                             -  >>In Binding [bolt] Ends - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:44:06,146 INFO  main                             -  >>In Binding [jvm] Begins - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:44:06,148 INFO  main                             -  >>In Binding [jvm] Ends - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:45:33,122 INFO  main                             - SOFABoot Runtime Starting!
+2021-02-01 09:45:33,825 INFO  main                             - Registering component: service:com.example.sofabootservice.service.IDeptService
+2021-02-01 09:45:33,825 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:45:33,911 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:45:33,912 INFO  main                             -  <<Out Binding [bolt] Begins - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:45:33,925 INFO  main                             -  <<Out Binding [bolt] Ends - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:45:33,925 INFO  main                             - Register Service - com.example.sofabootservice.service.IDeptService
+2021-02-01 09:45:38,942 INFO  main                             - SOFABoot Runtime Starting!
+2021-02-01 09:45:39,643 INFO  main                             - Registering component: reference:com.example.sofabootservice.service.IDeptService:#-1994721867
+2021-02-01 09:45:39,643 INFO  main                             -  >>In Binding [bolt] Begins - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:46:09,984 INFO  main                             -  >>In Binding [bolt] Ends - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:46:09,984 INFO  main                             -  >>In Binding [jvm] Begins - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:46:09,985 INFO  main                             -  >>In Binding [jvm] Ends - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:46:57,713 INFO  main                             - SOFABoot Runtime Starting!
+2021-02-01 09:46:58,448 INFO  main                             - Registering component: reference:com.example.sofabootservice.service.IDeptService:#517202888
+2021-02-01 09:46:58,448 INFO  main                             -  >>In Binding [bolt] Begins - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:47:00,193 INFO  main                             - SOFABoot Runtime Starting!
+2021-02-01 09:47:00,887 INFO  main                             - Registering component: service:com.example.sofabootservice.service.IDeptService
+2021-02-01 09:47:00,887 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:47:00,972 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:47:00,973 INFO  main                             -  <<Out Binding [bolt] Begins - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:47:00,986 INFO  main                             -  <<Out Binding [bolt] Ends - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:47:00,986 INFO  main                             - Register Service - com.example.sofabootservice.service.IDeptService
+2021-02-01 09:47:05,776 INFO  main                             - SOFABoot Runtime Starting!
+2021-02-01 09:47:06,555 INFO  main                             - Registering component: reference:com.example.sofabootservice.service.IDeptService:#1547390068
+2021-02-01 09:47:06,555 INFO  main                             -  >>In Binding [bolt] Begins - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:47:36,887 INFO  main                             -  >>In Binding [bolt] Ends - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:47:36,887 INFO  main                             -  >>In Binding [jvm] Begins - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:47:36,888 INFO  main                             -  >>In Binding [jvm] Ends - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:53:23,422 INFO  main                             - SOFABoot Runtime Starting!
+2021-02-01 09:53:24,133 INFO  main                             - Registering component: service:com.example.sofabootservice.service.IDeptService
+2021-02-01 09:53:24,133 INFO  main                             -  <<PreOut Binding [bolt] Begins - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:53:24,226 INFO  main                             -  <<PreOut Binding [bolt] Ends - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:53:24,226 INFO  main                             -  <<Out Binding [bolt] Begins - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:53:24,241 INFO  main                             -  <<Out Binding [bolt] Ends - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:53:24,241 INFO  main                             - Register Service - com.example.sofabootservice.service.IDeptService
+2021-02-01 09:53:27,958 INFO  main                             - SOFABoot Runtime Starting!
+2021-02-01 09:53:28,820 INFO  main                             - Registering component: reference:com.example.sofabootservice.service.IDeptService:#-2024852371
+2021-02-01 09:53:28,820 INFO  main                             -  >>In Binding [bolt] Begins - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:53:59,204 INFO  main                             -  >>In Binding [bolt] Ends - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:53:59,205 INFO  main                             -  >>In Binding [jvm] Begins - com.example.sofabootservice.service.IDeptService.
+2021-02-01 09:53:59,206 INFO  main                             -  >>In Binding [jvm] Ends - com.example.sofabootservice.service.IDeptService.

@@ -1,0 +1,1 @@
+{"time":"2021-02-07 09:45:34.272","stat.key":{"method":"selectDeptAll","local.app":"sofabootclient","service":"com.example.sofabootservice.service.IDeptService:1.0"},"count":1,"total.cost.milliseconds":33,"success":"N"}

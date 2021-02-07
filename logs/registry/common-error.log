@@ -1,0 +1,8 @@
+2021-02-07 10:45:49,855 ERROR c.a.s.r.c.t.SyncConfigThread#119 SyncConfigThread                 - [syncConfig] sync config error, retryInterval: 30000
+com.alipay.remoting.rpc.exception.InvokeTimeoutException: Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+	at com.alipay.remoting.rpc.RpcResponseResolver.preProcess(RpcResponseResolver.java:91)
+	at com.alipay.remoting.rpc.RpcResponseResolver.resolveResponseObject(RpcResponseResolver.java:56)
+	at com.alipay.remoting.rpc.RpcRemoting.invokeSync(RpcRemoting.java:186)
+	at com.alipay.remoting.rpc.RpcClient.invokeSync(RpcClient.java:369)
+	at com.alipay.sofa.registry.client.remoting.ClientConnection.invokeSync(ClientConnection.java:168)
+	at com.alipay.sofa.registry.client.task.SyncConfigThread.run(SyncConfigThread.java:74)

@@ -1,0 +1,136 @@
+2020-11-30 08:36:44,614 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 08:36:44,823 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 08:40:47,819 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 08:40:48,023 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:14:47,059 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:14:47,305 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:17:14,799 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:17:15,011 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:20:17,473 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:20:17,731 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:21:09,932 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:21:10,141 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:21:21,526 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:21:21,800 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:26:43,379 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:26:43,587 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:26:51,196 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:26:51,499 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:31:31,438 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:31:31,732 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:49:53,323 WARN  [RpcConnectionFactory#200] [ObserverNotifyThread-2-thread-4] Create connection to 192.168.177.1:22000 error!
+2020-11-30 09:49:53,832 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:49:54,564 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:49:55,098 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-6-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:51:19,742 WARN  [RpcConnectionFactory#200] [ObserverNotifyThread-2-thread-1] Create connection to 192.168.177.1:22000 error!
+2020-11-30 09:51:20,977 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:51:21,180 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:51:28,695 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:51:28,993 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:56:02,902 WARN  [RpcConnectionFactory#200] [ObserverNotifyThread-2-thread-4] Create connection to 192.168.177.1:22000 error!
+2020-11-30 09:56:04,321 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:56:04,528 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:56:12,715 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:56:13,008 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:56:52,245 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:56:52,556 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:58:07,593 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:58:07,880 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:58:44,358 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:58:44,565 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:59:34,149 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 09:59:34,410 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 10:03:19,288 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 10:03:19,557 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 10:20:15,231 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 10:21:34,797 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 10:21:34,928 WARN  [RpcServer#305] [main] Rpc Server stopped!
+2020-11-30 10:21:44,665 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 10:21:44,867 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 10:21:51,079 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 11:17:53,207 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 11:17:53,406 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 11:18:07,626 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 11:18:46,314 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 11:21:07,522 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 11:24:08,570 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 11:24:08,788 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 11:24:16,744 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 11:26:38,456 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 11:26:38,648 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 11:26:45,303 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 11:27:08,456 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 11:27:08,748 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 11:32:34,515 WARN  [RpcConnectionFactory#200] [ObserverNotifyThread-2-thread-4] Create connection to 192.168.177.1:22200 error!
+2020-11-30 11:32:35,565 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 11:32:35,769 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 11:32:43,249 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 11:32:43,540 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 11:52:00,657 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 11:52:00,995 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 11:53:24,335 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 11:53:24,663 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 13:54:06,599 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 13:54:12,901 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-5-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 13:55:25,635 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 13:55:25,833 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 13:55:33,334 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 13:55:33,662 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 13:57:38,622 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 13:57:45,501 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 13:58:13,770 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 13:58:13,968 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 13:58:14,568 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-4-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 13:58:19,559 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 13:58:19,862 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 13:58:39,338 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-5-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 13:59:07,712 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 13:59:08,074 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 15:07:06,767 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 15:07:06,966 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 15:07:14,467 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 15:07:14,724 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 15:08:32,874 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 15:08:33,167 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 15:09:19,318 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 15:09:19,563 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 15:10:25,191 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 15:10:25,475 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 15:24:27,889 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 15:24:28,089 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 15:25:47,367 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 15:25:47,710 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 15:28:59,966 WARN  [RpcConnectionFactory#200] [ObserverNotifyThread-2-thread-4] Create connection to 192.168.177.1:22200 error!
+2020-11-30 15:29:02,069 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 15:29:02,271 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 15:29:09,341 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 15:29:09,645 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 15:49:48,729 WARN  [RpcConnectionFactory#200] [ObserverNotifyThread-2-thread-4] Create connection to 192.168.177.1:22200 error!
+2020-11-30 15:49:49,934 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 15:49:50,129 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 15:49:55,524 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 15:49:55,871 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 16:08:53,163 WARN  [RpcConnectionFactory#200] [ObserverNotifyThread-2-thread-4] Create connection to 192.168.177.1:22200 error!
+2020-11-30 16:08:54,176 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 16:08:54,382 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 16:09:01,799 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 16:09:02,105 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 16:12:06,592 WARN  [RpcConnectionFactory#200] [ObserverNotifyThread-2-thread-4] Create connection to 192.168.177.1:22200 error!
+2020-11-30 16:12:07,342 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 16:12:07,545 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 16:12:13,555 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 16:12:13,924 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 16:15:17,776 WARN  [RpcConnectionFactory#200] [ObserverNotifyThread-2-thread-4] Create connection to 192.168.177.1:22200 error!
+2020-11-30 16:15:18,656 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 16:15:18,857 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 16:15:25,701 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 16:15:25,997 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 16:18:10,300 WARN  [RpcConnectionFactory#200] [ObserverNotifyThread-2-thread-4] Create connection to 192.168.177.1:22200 error!
+2020-11-30 16:18:17,639 WARN  [RpcConnectionFactory#200] [SOFA-CLI-RC-com.example.sofabootservice.service.IDeptService-2-T1] Create connection to 192.168.177.1:22200 error!
+2020-11-30 16:18:19,642 WARN  [RpcConnectionFactory#200] [SOFA-CLI-RC-com.example.sofabootservice.service.IDeptService-2-T1] Create connection to 192.168.177.1:22200 error!
+2020-11-30 16:18:31,649 WARN  [RpcConnectionFactory#200] [SOFA-CLI-RC-com.example.sofabootservice.service.IDeptService-2-T1] Create connection to 192.168.177.1:22200 error!
+2020-11-30 16:18:33,664 WARN  [RpcConnectionFactory#200] [SOFA-CLI-RC-com.example.sofabootservice.service.IDeptService-2-T1] Create connection to 192.168.177.1:22200 error!
+2020-11-30 16:18:42,466 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 16:18:42,670 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 16:31:49,862 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2020-11-30 16:31:50,036 WARN  [RpcServer#305] [main] Rpc Server stopped!

@@ -1,0 +1,5 @@
+2021-02-07 10:45:50,089 ERROR [RpcHeartbeatTrigger$1#112] [Bolt-default-executor-4-thread-3] Heartbeat exception caught! Error code=TIMEOUT, The address is 10.1.50.135:9600
+2021-02-07 10:46:20,090 ERROR [RpcHeartbeatTrigger$1#112] [Bolt-default-executor-4-thread-7] Heartbeat exception caught! Error code=TIMEOUT, The address is 10.1.50.135:9600
+2021-02-07 10:46:20,090 ERROR [RpcHeartbeatTrigger$1#112] [Bolt-default-executor-4-thread-8] Heartbeat exception caught! Error code=TIMEOUT, The address is 10.1.50.135:9600
+2021-02-07 10:46:35,869 ERROR [RpcHeartbeatTrigger$1#112] [Bolt-default-executor-4-thread-14] Heartbeat exception caught! Error code=TIMEOUT, The address is 10.1.50.135:9600
+2021-02-07 10:46:49,860 ERROR [RpcHeartbeatTrigger#73] [Rpc-netty-client-worker-6-thread-1] Heartbeat failed for 3 times, close the connection from client side: 10.1.50.135:9600 

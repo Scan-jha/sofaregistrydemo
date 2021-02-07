@@ -1,0 +1,12 @@
+2020-11-27 17:01:57,358 INFO  [ConnectionEventHandler#292] [Rpc-netty-client-worker-6-thread-1] Connection channel registered: UNKNOWN-ADDR
+2020-11-27 17:01:57,358 INFO  [ConnectionEventHandler#80] [Rpc-netty-client-worker-6-thread-1] Try connect to 10.1.50.135:9600
+2020-11-27 17:01:57,360 INFO  [ConnectionEventHandler#290] [Rpc-netty-client-worker-6-thread-1] Connection channel active: 10.1.50.135:9600
+2020-11-27 17:04:19,598 INFO  [ConnectionEventHandler#292] [Rpc-netty-client-worker-6-thread-1] Connection channel registered: UNKNOWN-ADDR
+2020-11-27 17:04:19,599 INFO  [ConnectionEventHandler#80] [Rpc-netty-client-worker-6-thread-1] Try connect to 10.1.50.135:9600
+2020-11-27 17:04:19,601 INFO  [ConnectionEventHandler#290] [Rpc-netty-client-worker-6-thread-1] Connection channel active: 10.1.50.135:9600
+2020-11-27 17:07:24,246 INFO  [ConnectionEventHandler#292] [Rpc-netty-client-worker-6-thread-1] Connection channel registered: UNKNOWN-ADDR
+2020-11-27 17:07:24,246 INFO  [ConnectionEventHandler#80] [Rpc-netty-client-worker-6-thread-1] Try connect to 10.1.50.135:9600
+2020-11-27 17:07:24,248 INFO  [ConnectionEventHandler#290] [Rpc-netty-client-worker-6-thread-1] Connection channel active: 10.1.50.135:9600
+2020-11-27 17:11:40,128 INFO  [ConnectionEventHandler#292] [Rpc-netty-client-worker-6-thread-1] Connection channel registered: UNKNOWN-ADDR
+2020-11-27 17:11:40,128 INFO  [ConnectionEventHandler#80] [Rpc-netty-client-worker-6-thread-1] Try connect to 10.1.50.135:9600
+2020-11-27 17:11:40,131 INFO  [ConnectionEventHandler#290] [Rpc-netty-client-worker-6-thread-1] Connection channel active: 10.1.50.135:9600

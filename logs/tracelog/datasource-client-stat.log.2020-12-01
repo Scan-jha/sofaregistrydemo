@@ -1,0 +1,9 @@
+{"time":"2020-12-01 11:18:21.959","stat.key":{"local.app":"sofabootservice","database.name":"ORCL","sql":"select * from dept"},"count":1,"total.cost.milliseconds":63,"success":"true","load.test":"F"}
+{"time":"2020-12-01 13:26:55.370","stat.key":{"local.app":"sofabootservice","database.name":"ORCL","sql":"select * from emp"},"count":1,"total.cost.milliseconds":2,"success":"true","load.test":"F"}
+{"time":"2020-12-01 13:26:55.370","stat.key":{"local.app":"sofabootservice","database.name":"ORCL","sql":"select * from dept"},"count":1,"total.cost.milliseconds":63,"success":"true","load.test":"F"}
+{"time":"2020-12-01 13:28:45.450","stat.key":{"local.app":"sofabootservice","database.name":"ORCL","sql":"select * from emp"},"count":1,"total.cost.milliseconds":63,"success":"true","load.test":"F"}
+{"time":"2020-12-01 13:28:45.451","stat.key":{"local.app":"sofabootservice","database.name":"ORCL","sql":"select * from dept"},"count":2,"total.cost.milliseconds":1,"success":"true","load.test":"F"}
+{"time":"2020-12-01 13:30:34.537","stat.key":{"local.app":"sofabootservice","database.name":"ORCL","sql":"select * from dept"},"count":2,"total.cost.milliseconds":62,"success":"true","load.test":"F"}
+{"time":"2020-12-01 13:33:34.276","stat.key":{"local.app":"sofabootservice","database.name":"ORCL","sql":"select * from emp"},"count":1,"total.cost.milliseconds":2,"success":"true","load.test":"F"}
+{"time":"2020-12-01 13:33:34.276","stat.key":{"local.app":"sofabootservice","database.name":"ORCL","sql":"select * from dept"},"count":1,"total.cost.milliseconds":62,"success":"true","load.test":"F"}
+{"time":"2020-12-01 13:54:15.056","stat.key":{"local.app":"sofabootservice","database.name":"ORCL","sql":"select * from emp"},"count":1,"total.cost.milliseconds":64,"success":"true","load.test":"F"}

@@ -1,0 +1,7 @@
+{"time":"2021-02-01 09:41:53.157","stat.key":{"method":"selectDeptAll","local.app":"sofabootclient","service":"com.example.sofabootservice.service.IDeptService:1.0"},"count":1,"total.cost.milliseconds":25,"success":"N"}
+{"time":"2021-02-01 09:42:53.156","stat.key":{"method":"selectEmp","local.app":"sofabootclient","service":"com.example.sofabootservice.service.IDeptService:1.0"},"count":1,"total.cost.milliseconds":1,"success":"N"}
+{"time":"2021-02-01 09:44:35.933","stat.key":{"method":"selectEmp","local.app":"sofabootclient","service":"com.example.sofabootservice.service.IDeptService:1.0"},"count":1,"total.cost.milliseconds":8,"success":"N"}
+{"time":"2021-02-01 09:46:39.775","stat.key":{"method":"selectEmp","local.app":"sofabootclient","service":"com.example.sofabootservice.service.IDeptService:1.0"},"count":1,"total.cost.milliseconds":8,"success":"N"}
+{"time":"2021-02-01 09:48:06.686","stat.key":{"method":"selectEmp","local.app":"sofabootclient","service":"com.example.sofabootservice.service.IDeptService:1.0"},"count":2,"total.cost.milliseconds":10,"success":"N"}
+{"time":"2021-02-01 09:54:28.943","stat.key":{"method":"selectEmp","local.app":"sofabootclient","service":"com.example.sofabootservice.service.IDeptService:1.0"},"count":1,"total.cost.milliseconds":7,"success":"N"}
+{"time":"2021-02-01 09:55:28.942","stat.key":{"method":"selectDeptAll","local.app":"sofabootclient","service":"com.example.sofabootservice.service.IDeptService:1.0"},"count":2,"total.cost.milliseconds":0,"success":"N"}

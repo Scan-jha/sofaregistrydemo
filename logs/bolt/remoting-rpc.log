@@ -1,0 +1,60 @@
+2021-02-07 09:42:14,522 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2021-02-07 09:42:14,795 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2021-02-07 09:43:34,427 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2021-02-07 10:00:21,768 WARN  [RpcServer#305] [Thread-15] Rpc Server stopped!
+2021-02-07 10:00:27,605 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2021-02-07 10:00:27,844 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2021-02-07 10:00:36,255 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2021-02-07 10:01:21,607 WARN  [RpcServer#305] [Thread-12] Rpc Server stopped!
+2021-02-07 10:45:18,648 WARN  [RpcServer#884] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2021-02-07 10:45:18,843 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2021-02-07 10:45:49,847 WARN  [RpcResponseResolver#143] [SyncConfigThread] Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+2021-02-07 10:45:59,071 WARN  [RpcHeartBeatProcessor#83] [Bolt-default-executor-4-thread-4] Cannot find heartbeat InvokeFuture, maybe already timeout. Id=4, From 10.1.50.135:9600
+2021-02-07 10:45:59,098 WARN  [RpcResponseProcessor#80] [Bolt-default-executor-4-thread-5] Cannot find InvokeFuture, maybe already timeout, id=3, from=10.1.50.135:9600 
+2021-02-07 10:46:17,801 WARN  [RpcConnectionFactory#237] [main] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2021-02-07 10:46:18,127 WARN  [RpcConnectionFactory#237] [SOFA-CLI-CONN-com.example.sofabootservice.service.IDeptService-3-T1] [client side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2021-02-07 10:46:19,060 WARN  [RpcResponseResolver#143] [RegistryWorkerThread] Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+2021-02-07 10:46:20,062 WARN  [RpcResponseResolver#143] [RegistryWorkerThread] Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+2021-02-07 10:46:20,858 WARN  [RpcResponseResolver#143] [SyncConfigThread] Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+2021-02-07 10:46:21,064 WARN  [RpcResponseResolver#143] [RegistryWorkerThread] Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+2021-02-07 10:46:22,065 WARN  [RpcResponseResolver#143] [RegistryWorkerThread] Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+2021-02-07 10:46:23,066 WARN  [RpcResponseResolver#143] [RegistryWorkerThread] Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+2021-02-07 10:46:23,778 WARN  [RpcHeartBeatProcessor#83] [Bolt-default-executor-4-thread-9] Cannot find heartbeat InvokeFuture, maybe already timeout. Id=6, From 10.1.50.135:9600
+2021-02-07 10:46:23,783 WARN  [RpcHeartBeatProcessor#83] [Bolt-default-executor-4-thread-11] Cannot find heartbeat InvokeFuture, maybe already timeout. Id=7, From 10.1.50.135:9600
+2021-02-07 10:46:23,783 WARN  [RpcResponseProcessor#80] [Bolt-default-executor-4-thread-12] Cannot find InvokeFuture, maybe already timeout, id=8, from=10.1.50.135:9600 
+2021-02-07 10:46:24,069 WARN  [RpcResponseResolver#143] [RegistryWorkerThread] Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+2021-02-07 10:46:25,070 WARN  [RpcResponseResolver#143] [RegistryWorkerThread] Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+2021-02-07 10:46:26,071 WARN  [RpcResponseResolver#143] [RegistryWorkerThread] Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+2021-02-07 10:46:27,073 WARN  [RpcResponseResolver#143] [RegistryWorkerThread] Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+2021-02-07 10:46:28,074 WARN  [RpcResponseResolver#143] [RegistryWorkerThread] Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+2021-02-07 10:46:28,428 WARN  [RpcResponseProcessor#80] [Bolt-default-executor-3-thread-3] Cannot find InvokeFuture, maybe already timeout, id=2, from=10.1.50.135:9600 
+2021-02-07 10:46:29,199 WARN  [RpcResponseProcessor#80] [Bolt-default-executor-3-thread-5] Cannot find InvokeFuture, maybe already timeout, id=3, from=10.1.50.135:9600 
+2021-02-07 10:46:30,279 WARN  [RpcResponseProcessor#80] [Bolt-default-executor-3-thread-6] Cannot find InvokeFuture, maybe already timeout, id=4, from=10.1.50.135:9600 
+2021-02-07 10:46:37,209 WARN  [RpcHeartBeatProcessor#83] [Bolt-default-executor-4-thread-15] Cannot find heartbeat InvokeFuture, maybe already timeout. Id=10, From 10.1.50.135:9600
+2021-02-07 10:46:38,581 WARN  [RpcResponseProcessor#80] [Bolt-default-executor-3-thread-8] Cannot find InvokeFuture, maybe already timeout, id=5, from=10.1.50.135:9600 
+2021-02-07 10:46:38,582 WARN  [RpcResponseProcessor#80] [Bolt-default-executor-3-thread-10] Cannot find InvokeFuture, maybe already timeout, id=6, from=10.1.50.135:9600 
+2021-02-07 10:46:38,582 WARN  [RpcResponseProcessor#80] [Bolt-default-executor-3-thread-11] Cannot find InvokeFuture, maybe already timeout, id=7, from=10.1.50.135:9600 
+2021-02-07 10:46:38,582 WARN  [RpcResponseProcessor#80] [Bolt-default-executor-3-thread-12] Cannot find InvokeFuture, maybe already timeout, id=8, from=10.1.50.135:9600 
+2021-02-07 10:46:38,582 WARN  [RpcResponseProcessor#80] [Bolt-default-executor-3-thread-14] Cannot find InvokeFuture, maybe already timeout, id=9, from=10.1.50.135:9600 
+2021-02-07 10:46:38,582 WARN  [RpcResponseProcessor#80] [Bolt-default-executor-3-thread-15] Cannot find InvokeFuture, maybe already timeout, id=10, from=10.1.50.135:9600 
+2021-02-07 10:46:38,587 WARN  [RpcResponseProcessor#80] [Bolt-default-executor-3-thread-8] Cannot find InvokeFuture, maybe already timeout, id=11, from=10.1.50.135:9600 
+2021-02-07 10:46:48,819 WARN  [RpcResponseResolver#143] [SyncConfigThread] Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+2021-02-07 10:46:51,325 WARN  [RpcResponseResolver#143] [RegistryWorkerThread] Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+2021-02-07 10:46:51,860 WARN  [RpcResponseResolver#143] [SyncConfigThread] Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+2021-02-07 10:46:52,326 WARN  [RpcResponseResolver#143] [RegistryWorkerThread] Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+2021-02-07 10:46:52,615 WARN  [RpcResponseProcessor#80] [Bolt-default-executor-3-thread-12] Cannot find InvokeFuture, maybe already timeout, id=14, from=10.1.50.135:9600 
+2021-02-07 10:46:53,327 WARN  [RpcResponseResolver#143] [RegistryWorkerThread] Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+2021-02-07 10:46:54,329 WARN  [RpcResponseResolver#143] [RegistryWorkerThread] Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+2021-02-07 10:46:55,331 WARN  [RpcResponseResolver#143] [RegistryWorkerThread] Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+2021-02-07 10:46:56,332 WARN  [RpcResponseResolver#143] [RegistryWorkerThread] Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+2021-02-07 10:46:57,334 WARN  [RpcResponseResolver#143] [RegistryWorkerThread] Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+2021-02-07 10:46:58,335 WARN  [RpcResponseResolver#143] [RegistryWorkerThread] Rpc invocation timeout[responseCommand TIMEOUT]! the address is 10.1.50.135:9600
+2021-02-07 10:46:58,877 WARN  [RpcResponseProcessor#80] [Bolt-default-executor-4-thread-17] Cannot find InvokeFuture, maybe already timeout, id=13, from=10.1.50.135:9600 
+2021-02-07 10:46:58,888 WARN  [RpcResponseProcessor#80] [Bolt-default-executor-4-thread-18] Cannot find InvokeFuture, maybe already timeout, id=12, from=10.1.50.135:9600 
+2021-02-07 10:46:58,904 WARN  [RpcResponseProcessor#80] [Bolt-default-executor-4-thread-20] Cannot find InvokeFuture, maybe already timeout, id=14, from=10.1.50.135:9600 
+2021-02-07 10:46:58,912 WARN  [RpcResponseProcessor#80] [Bolt-default-executor-4-thread-1] Cannot find InvokeFuture, maybe already timeout, id=15, from=10.1.50.135:9600 
+2021-02-07 10:46:58,920 WARN  [RpcResponseProcessor#80] [Bolt-default-executor-4-thread-2] Cannot find InvokeFuture, maybe already timeout, id=16, from=10.1.50.135:9600 
+2021-02-07 10:46:58,924 WARN  [RpcResponseProcessor#80] [Bolt-default-executor-4-thread-3] Cannot find InvokeFuture, maybe already timeout, id=20, from=10.1.50.135:9600 
+2021-02-07 10:46:58,932 WARN  [RpcResponseProcessor#80] [Bolt-default-executor-4-thread-4] Cannot find InvokeFuture, maybe already timeout, id=17, from=10.1.50.135:9600 
+2021-02-07 10:46:59,302 WARN  [RpcResponseProcessor#80] [Bolt-default-executor-4-thread-5] Cannot find InvokeFuture, maybe already timeout, id=19, from=10.1.50.135:9600 
+2021-02-07 10:46:59,321 WARN  [RpcResponseProcessor#80] [Bolt-default-executor-4-thread-6] Cannot find InvokeFuture, maybe already timeout, id=18, from=10.1.50.135:9600 

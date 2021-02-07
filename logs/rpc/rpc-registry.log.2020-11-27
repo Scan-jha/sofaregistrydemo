@@ -1,0 +1,12 @@
+2020-11-27 17:01:57,312 WARN  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistryHelper - Virtual host is specified, host will be change from 0.0.0.0 to 192.168.177.1 when register
+2020-11-27 17:01:57,312 INFO  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistry - RPC-00205: RPC 服务[com.example.sofabootservice.mapper.IDeptMapper:1.0:user99@DEFAULT]发布开始 
+2020-11-27 17:01:57,338 INFO  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistry - RPC-00206: RPC 服务[com.example.sofabootservice.mapper.IDeptMapper:1.0:user99@DEFAULT]发布结束 
+2020-11-27 17:04:19,543 WARN  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistryHelper - Virtual host is specified, host will be change from 0.0.0.0 to 192.168.177.1 when register
+2020-11-27 17:04:19,544 INFO  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistry - RPC-00205: RPC 服务[com.example.sofabootservice.mapper.IDeptMapper:1.0:user99@DEFAULT]发布开始 
+2020-11-27 17:04:19,570 INFO  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistry - RPC-00206: RPC 服务[com.example.sofabootservice.mapper.IDeptMapper:1.0:user99@DEFAULT]发布结束 
+2020-11-27 17:07:24,195 WARN  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistryHelper - Virtual host is specified, host will be change from 0.0.0.0 to 192.168.177.1 when register
+2020-11-27 17:07:24,196 INFO  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistry - RPC-00205: RPC 服务[com.example.sofabootservice.service.IDeptService:1.0:user99@DEFAULT]发布开始 
+2020-11-27 17:07:24,220 INFO  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistry - RPC-00206: RPC 服务[com.example.sofabootservice.service.IDeptService:1.0:user99@DEFAULT]发布结束 
+2020-11-27 17:11:40,082 WARN  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistryHelper - Virtual host is specified, host will be change from 0.0.0.0 to 192.168.177.1 when register
+2020-11-27 17:11:40,083 INFO  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistry - RPC-00205: RPC 服务[com.example.sofabootservice.service.IDeptService:1.0:user99@DEFAULT]发布开始 
+2020-11-27 17:11:40,108 INFO  main                             com.alipay.sofa.rpc.registry.sofa.SofaRegistry - RPC-00206: RPC 服务[com.example.sofabootservice.service.IDeptService:1.0:user99@DEFAULT]发布结束 
