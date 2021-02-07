@@ -21,7 +21,6 @@
     <modules>
         <module>sofabootservice</module>
         <module>sofabootclient</module>
-        <module>sofaregistrygetway</module>
     </modules>
 
 </project>
